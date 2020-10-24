@@ -1,0 +1,165 @@
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Login.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.main.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\FontAwesome.Sharp.dll
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.ScanQrcodes.resources
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\AForge.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\AForge.Video.DirectShow.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\AForge.Video.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\zxing.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\AForge.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\AForge.Video.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\AForge.Video.DirectShow.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\zxing.pdb
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\zxing.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.pdb
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.xml
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.taoTheThanhVien.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmBarcode.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmThemNhanVien.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmTacGia.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmNhaXuatBan.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmTheLoai.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmAddSach.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmPhieuNhap.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmHoaDon.resources
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\QRCoder.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\DynamicData.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\ReactiveUI.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\Splat.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.Reactive.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.ValueTuple.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\VisualReactiveWinForms.dll
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\DynamicData.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\ReactiveUI.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\Splat.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.Reactive.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\System.ValueTuple.xml
+F:\WinForm\QuanLySach\QuanLySach\bin\Debug\VisualReactiveWinForms.xml
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmQuanLy.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmThanhToanTien.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+F:\WinForm\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmAboutUs.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\AForge.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\AForge.Video.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\DynamicData.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\QRCoder.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\ReactiveUI.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\Splat.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.Reactive.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.ValueTuple.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\VisualReactiveWinForms.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\zxing.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.dll
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\AForge.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\AForge.Video.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\DynamicData.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\ReactiveUI.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\Splat.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.Reactive.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\System.ValueTuple.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\VisualReactiveWinForms.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\zxing.pdb
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\zxing.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.pdb
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.xml
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmAboutUs.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmAddSach.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmBarcode.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmHoaDon.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmNhaXuatBan.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmPhieuNhap.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmQuanLy.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmTacGia.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmThanhToanTien.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmTheLoai.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmThemNhanVien.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Login.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.main.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.ScanQrcodes.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.taoTheThanhVien.resources
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+C:\Users\Anh Quan TR123\Downloads\Nhom_Quan_Thach_Thong\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\AForge.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\AForge.Video.DirectShow.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\AForge.Video.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\DynamicData.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\FontAwesome.Sharp.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\QRCoder.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\ReactiveUI.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\Splat.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.Reactive.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.ValueTuple.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\VisualReactiveWinForms.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\zxing.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.dll
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\AForge.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\AForge.Video.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\AForge.Video.DirectShow.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\DynamicData.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\ReactiveUI.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\Splat.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.Reactive.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\System.ValueTuple.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\VisualReactiveWinForms.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\zxing.pdb
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\zxing.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.pdb
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\bin\Debug\zxing.presentation.xml
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csprojAssemblyReference.cache
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmAboutUs.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmAddSach.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmBarcode.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmHoaDon.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmNhaXuatBan.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmPhieuNhap.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmQuanLy.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmTacGia.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.form.frmThanhToanTien.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmTheLoai.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.frmThemNhanVien.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Login.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.main.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.Properties.Resources.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.ScanQrcodes.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.taoTheThanhVien.resources
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.GenerateResource.cache
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CopyComplete
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+E:\Downloads\quanLyNhaSach\quanLyNhaSach\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb

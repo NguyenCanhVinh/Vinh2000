@@ -1,0 +1,12 @@
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.csprojAssemblyReference.cache
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.CreateAccount.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.frmBarcode.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.frmTacGia.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.frmThemNhanVien.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.Login.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.main.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.Properties.Resources.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.ScanQrcodes.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.taoTheThanhVien.resources
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.csproj.GenerateResource.cache
+F:\WinForm\QuanLySach\QuanLySach\obj\Release\QuanLySach.csproj.CoreCompileInputs.cache
